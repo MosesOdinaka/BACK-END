@@ -1,90 +1,275 @@
+---
+created: 2025-02-27T07:10:13 (UTC +01:00)
+tags: []
+source: https://intranet.alxswe.com/projects/1224
+author: 
+---
 
-Short Specializations
-Average: 93.94%
-0x00. ES6 Basics
-JavaScript
-ES6
- Weight: 1
- Project over - took place from Mar 4, 2024 6:00 AM to Mar 5, 2024 6:00 AM
- An auto review will be launched at the deadline
-In a nutshell…
-Auto QA review: 30.0/41 mandatory & 2.0/4 optional
-Altogether:  109.76%
-Mandatory: 73.17%
-Optional: 50.0%
-Calculation:  73.17% + (73.17% * 50.0%)  == 109.76%
-Concepts
-For this project, we expect you to look at these concepts:
+# Project: 0x00. ES6 Basics | Lagos Intranet
 
-JavaScript programming
-Software Linter
+> ## Excerpt
+> Short Specializations
+        
+        
+          Average: 93.94%
 
+---
+[
 
-Resources
-Read or watch:
+](https://intranet.alxswe.com/)
 
-ECMAScript 6 - ECMAScript 2015
-Statements and declarations
-Arrow functions
-Default parameters
-Rest parameter
-Javascript ES6 — Iterables and Iterators
-Learning Objectives
-At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
+-   [
+    
+    ](https://intranet.alxswe.com/)
+-   [
+    
+    ](https://intranet.alxswe.com/planning/me)
+-   [
+    
+    ](https://intranet.alxswe.com/projects/current)
+-   [
+    
+    ](https://intranet.alxswe.com/corrections/to_review)
+-   [
+    
+    ](https://intranet.alxswe.com/dashboards/my_current_evaluation_quizzes)
 
-What ES6 is
-New features introduced in ES6
-The difference between a constant and a variable
-Block-scoped variables
-Arrow functions and function parameters default to them
-Rest and spread function parameters
-String templating in ES6
-Object creation and their properties in ES6
-Iterators and for-of loops
-Requirements
-General
-All your files will be executed on Ubuntu 18.04 LTS using NodeJS 12.11.x
-Allowed editors: vi, vim, emacs, Visual Studio Code
-All your files should end with a new line
-A README.md file, at the root of the folder of the project, is mandatory
-Your code should use the js extension
-Your code will be tested using the Jest Testing Framework
-Your code will be analyzed using the linter ESLint along with specific rules that we’ll provide
-All of your functions must be exported
-Setup
-Install NodeJS 12.11.x
+___
+
+-   [
+    
+    ](https://intranet.alxswe.com/dashboards/my_curriculums)
+-   [
+    
+    ](https://intranet.alxswe.com/concepts)
+-   [
+    
+    ](https://intranet.alxswe.com/dashboards/video_rooms)
+-   [
+    
+    ](https://intranet.alxswe.com/servers)
+-   [
+    
+    ](https://intranet.alxswe.com/user_containers/current)
+-   [
+    
+    ](https://intranet.alxswe.com/dashboards/my_tools)
+-   [
+    
+    ](https://intranet.alxswe.com/dashboards/videos)
+
+___
+
+-   [
+    
+    ](https://intranet.alxswe.com/users/peers)
+-   [
+    
+    ](https://discord.com/app)
+-   [
+    
+    ](https://intranet.alxswe.com/users/my_profile)
+
+Short Specializations Average: 93.94%
+
+# 0x00. ES6 Basics
+
+JavaScriptES6
+
+-   Weight: 1
+-   Project over - took place from Mar 4, 2024 6:00 AM to Mar 5, 2024 6:00 AM
+-   An auto review will be launched at the deadline
+
+#### In a nutshell…
+
+-   **Auto QA review:** 30.0/41 mandatory & 2.0/4 optional
+-   **Altogether:**  **109.76%**
+    -   Mandatory: 73.17%
+    -   Optional: 50.0%
+    -   Calculation:  73.17% + (73.17% \* 50.0%)  == **109.76%**
+
+### Concepts
+
+_For this project, we expect you to look at these concepts:_
+
+-   [JavaScript programming](https://intranet.alxswe.com/concepts/852)
+-   [Software Linter](https://intranet.alxswe.com/concepts/542)
+
+![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2019/12/08806026ef621f900121.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20250227%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250227T050224Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=0b40992b61267644cd82c549c170b2d900752fc995ac3e754e62649ebb091a38)
+
+## Resources
+
+**Read or watch**:
+
+-   [ECMAScript 6 - ECMAScript 2015](https://intranet.alxswe.com/rltoken/NW1dFLFExQ12_hD8yvkV3A "ECMAScript 6 - ECMAScript 2015")
+-   [Statements and declarations](https://intranet.alxswe.com/rltoken/sroRUsUvOZV28V99MHDenw "Statements and declarations")
+-   [Arrow functions](https://intranet.alxswe.com/rltoken/N2WLylppCtkkX3YFFtyUHw "Arrow functions")
+-   [Default parameters](https://intranet.alxswe.com/rltoken/kbw9gMO6sdeOKAY23SYVgA "Default parameters")
+-   [Rest parameter](https://intranet.alxswe.com/rltoken/erZfCvacuGVk9z1CQlJvYQ "Rest parameter")
+-   [Javascript ES6 — Iterables and Iterators](https://intranet.alxswe.com/rltoken/PYk7jvNMAi-nRUY2haUAhw "Javascript ES6 — Iterables and Iterators")
+
+## Learning Objectives
+
+At the end of this project, you are expected to be able to [explain to anyone](https://intranet.alxswe.com/rltoken/KDGvEqVWIsvOQfCcwDNHNg "explain to anyone"), **without the help of Google**:
+
+-   What ES6 is
+-   New features introduced in ES6
+-   The difference between a constant and a variable
+-   Block-scoped variables
+-   Arrow functions and function parameters default to them
+-   Rest and spread function parameters
+-   String templating in ES6
+-   Object creation and their properties in ES6
+-   Iterators and for-of loops
+
+## Requirements
+
+### General
+
+-   All your files will be executed on Ubuntu 18.04 LTS using NodeJS 12.11.x
+-   Allowed editors: `vi`, `vim`, `emacs`, `Visual Studio Code`
+-   All your files should end with a new line
+-   A `README.md` file, at the root of the folder of the project, is mandatory
+-   Your code should use the `js` extension
+-   Your code will be tested using the [Jest Testing Framework](https://intranet.alxswe.com/rltoken/ECZpKsJ3fm1qRA7lDyhd_Q "Jest Testing Framework")
+-   Your code will be analyzed using the linter [ESLint](https://intranet.alxswe.com/rltoken/Ttd9w5jERwTErJW3DDbVoQ "ESLint") along with specific rules that we’ll provide
+-   All of your functions must be exported
+
+## Setup
+
+### Install NodeJS 12.11.x
+
 (in your home directory):
 
+```
 curl -sL https://deb.nodesource.com/setup_12.x -o nodesource_setup.sh
 sudo bash nodesource_setup.sh
 sudo apt install nodejs -y
+```
+
+```
 $ nodejs -v
 v12.11.1
 $ npm -v
 6.11.3
-Install Jest, Babel, and ESLint
-in your project directory, install Jest, Babel and ESList by using the supplied package.json and run npm install.
+```
 
-Configuration files
+### Install Jest, Babel, and ESLint
+
+in your project directory, install Jest, Babel and ESList by using the supplied `package.json` and run `npm install`.
+
+## Configuration files
+
 Add the files below to your project directory
 
-package.json
-Click here to show/hide file contents
-babel.config.js
-Click here to show/hide file contents
-.eslintrc.js
-Click here to show/hide file contents
-Finally…
-Don’t forget to run npm install from the terminal of your project folder to install all necessary project dependencies.
+### `package.json`
 
-Tasks
-0. Const or let?
+Click here to show/hide file contents
+
+```
+
+{
+  "scripts": {
+    "lint": "./node_modules/.bin/eslint",
+    "check-lint": "lint [0-9]*.js",
+    "dev": "npx babel-node",
+    "test": "jest",
+    "full-test": "./node_modules/.bin/eslint [0-9]*.js &amp;&amp; jest"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.6.0",
+    "@babel/node": "^7.8.0",
+    "@babel/preset-env": "^7.6.0",
+    "eslint": "^6.4.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-jest": "^22.17.0",
+    "jest": "^24.9.0"
+  }
+}
+```
+
+### `babel.config.js`
+
+Click here to show/hide file contents
+
+```
+
+module.exports = {
+  presets: [
+    [
+      '@babel/preset-env',
+      {
+        targets: {
+          node: 'current',
+        },
+      },
+    ],
+  ],
+};
+```
+
+### `.eslintrc.js`
+
+Click here to show/hide file contents
+
+```
+
+module.exports = {
+  env: {
+    browser: false,
+    es6: true,
+    jest: true,
+  },
+  extends: [
+    'airbnb-base',
+    'plugin:jest/all',
+  ],
+  globals: {
+    Atomics: 'readonly',
+    SharedArrayBuffer: 'readonly',
+  },
+  parserOptions: {
+    ecmaVersion: 2018,
+    sourceType: 'module',
+  },
+  plugins: ['jest'],
+  rules: {
+    'no-console': 'off',
+    'no-shadow': 'off',
+    'no-restricted-syntax': [
+      'error',
+      'LabeledStatement',
+      'WithStatement',
+    ],
+  },
+  overrides:[
+    {
+      files: ['*.js'],
+      excludedFiles: 'babel.config.js',
+    }
+  ]
+};
+```
+
+### Finally…
+
+Don’t forget to run `npm install` from the terminal of your project folder to install all necessary project dependencies.
+
+## Tasks
+
+### 0\. Const or let?
+
 mandatory
+
 Score: 100.0% (Checks completed: 100.0%)
+
 Modify
 
-function taskFirst to instantiate variables using const
-function taskNext to instantiate variables using let
+-   function `taskFirst` to instantiate variables using `const`
+-   function `taskNext` to instantiate variables using `let`
+
+```
 export function taskFirst() {
   var task = 'I prefer const when I can.';
   return task;
@@ -100,8 +285,11 @@ export function taskNext() {
 
   return combination;
 }
+```
+
 Execution example:
 
+```
 bob@dylan:~$ cat 0-main.js
 import { taskFirst, taskNext } from './0-constants.js';
 
@@ -111,17 +299,25 @@ bob@dylan:~$
 bob@dylan:~$ npm run dev 0-main.js 
 I prefer const when I can. But sometimes let is okay
 bob@dylan:~$ 
-Repo:
+```
 
-GitHub repository: alx-backend-javascript
-Directory: 0x00-ES6_basic
-File: 0-constants.js
-  
-1. Block Scope
+**Repo:**
+
+-   GitHub repository: `alx-backend-javascript`
+-   Directory: `0x00-ES6_basic`
+-   File: `0-constants.js`
+
+Check submission Get a sandbox View results
+
+### 1\. Block Scope
+
 mandatory
-Score: 100.0% (Checks completed: 100.0%)
-Given what you’ve read about var and hoisting, modify the variables inside the function taskBlock so that the variables aren’t overwritten inside the conditional block.
 
+Score: 100.0% (Checks completed: 100.0%)
+
+Given what you’ve read about `var` and hoisting, modify the variables inside the function `taskBlock` so that the variables aren’t overwritten inside the conditional block.
+
+```
 export default function taskBlock(trueOrFalse) {
   var task = false;
   var task2 = true;
@@ -133,8 +329,11 @@ export default function taskBlock(trueOrFalse) {
 
   return [task, task2];
 }
+```
+
 Execution:
 
+```
 bob@dylan:~$ cat 1-main.js
 import taskBlock from './1-block-scoped.js';
 
@@ -145,17 +344,25 @@ bob@dylan:~$ npm run dev 1-main.js
 [ false, true ]
 [ false, true ]
 bob@dylan:~$
-Repo:
+```
 
-GitHub repository: alx-backend-javascript
-Directory: 0x00-ES6_basic
-File: 1-block-scoped.js
-  
-2. Arrow functions
+**Repo:**
+
+-   GitHub repository: `alx-backend-javascript`
+-   Directory: `0x00-ES6_basic`
+-   File: `1-block-scoped.js`
+
+Check submission Get a sandbox View results
+
+### 2\. Arrow functions
+
 mandatory
-Score: 66.67% (Checks completed: 66.67%)
-Rewrite the following standard function to use ES6’s arrow syntax of the function add (it will be an anonymous function after)
 
+Score: 66.67% (Checks completed: 66.67%)
+
+Rewrite the following standard function to use ES6’s arrow syntax of the function `add` (it will be an anonymous function after)
+
+```
 export default function getNeighborhoodsList() {
   this.sanFranciscoNeighborhoods = ['SOMA', 'Union Square'];
 
@@ -165,8 +372,11 @@ export default function getNeighborhoodsList() {
     return self.sanFranciscoNeighborhoods;
   };
 }
+```
+
 Execution:
 
+```
 bob@dylan:~$ cat 2-main.js
 import getNeighborhoodsList from './2-arrow.js';
 
@@ -177,19 +387,27 @@ bob@dylan:~$
 bob@dylan:~$ npm run dev 2-main.js 
 [ 'SOMA', 'Union Square', 'Noe Valley' ]
 bob@dylan:~$
-Repo:
+```
 
-GitHub repository: alx-backend-javascript
-Directory: 0x00-ES6_basic
-File: 2-arrow.js
-   
-3. Parameter defaults
+**Repo:**
+
+-   GitHub repository: `alx-backend-javascript`
+-   Directory: `0x00-ES6_basic`
+-   File: `2-arrow.js`
+
+Check submission Mark submission Get a sandbox View results
+
+### 3\. Parameter defaults
+
 mandatory
+
 Score: 80.0% (Checks completed: 80.0%)
+
 Condense the internals of the following function to 1 line - without changing the name of each function/variable.
 
-Hint: The key here to define default parameter values for the function parameters.
+_Hint:_ The key here to define default parameter values for the function parameters.
 
+```
 export default function getSumOfHoods(initialNumber, expansion1989, expansion2019) {
   if (expansion1989 === undefined) {
     expansion1989 = 89;
@@ -200,8 +418,11 @@ export default function getSumOfHoods(initialNumber, expansion1989, expansion201
   }
   return initialNumber + expansion1989 + expansion2019;
 }
+```
+
 Execution:
 
+```
 bob@dylan:~$ cat 3-main.js
 import getSumOfHoods from './3-default-parameter.js';
 
@@ -214,27 +435,41 @@ bob@dylan:~$ npm run dev 3-main.js
 56
 41
 bob@dylan:~$
-Repo:
+```
 
-GitHub repository: alx-backend-javascript
-Directory: 0x00-ES6_basic
-File: 3-default-parameter.js
-   
-4. Rest parameter syntax for functions
+**Repo:**
+
+-   GitHub repository: `alx-backend-javascript`
+-   Directory: `0x00-ES6_basic`
+-   File: `3-default-parameter.js`
+
+Check submission Mark submission Get a sandbox View results
+
+### 4\. Rest parameter syntax for functions
+
 mandatory
+
 Score: 66.67% (Checks completed: 66.67%)
+
 Modify the following function to return the number of arguments passed to it using the rest parameter syntax
 
+```
 export default function returnHowManyArguments() {
 
 }
+```
+
 Example:
 
-> returnHowManyArguments("Hello", "ALX", 2020);
+```
+&gt; returnHowManyArguments("Hello", "ALX", 2020);
 3
->
+&gt;
+```
+
 Execution:
 
+```
 bob@dylan:~$ cat 4-main.js
 import returnHowManyArguments from './4-rest-parameter.js';
 
@@ -245,21 +480,32 @@ bob@dylan:~$ npm run dev 4-main.js
 1
 4
 bob@dylan:~$
-Repo:
+```
 
-GitHub repository: alx-backend-javascript
-Directory: 0x00-ES6_basic
-File: 4-rest-parameter.js
-   
-5. The wonders of spread syntax
+**Repo:**
+
+-   GitHub repository: `alx-backend-javascript`
+-   Directory: `0x00-ES6_basic`
+-   File: `4-rest-parameter.js`
+
+Check submission Mark submission Get a sandbox View results
+
+### 5\. The wonders of spread syntax
+
 mandatory
+
 Score: 66.67% (Checks completed: 66.67%)
+
 Using spread syntax, concatenate 2 arrays and each character of a string by modifying the function below. Your function body should be one line long.
 
+```
 export default function concatArrays(array1, array2, string) {
 }
+```
+
 Execution:
 
+```
 bob@dylan:~$ cat 5-main.js
 import concatArrays from './5-spread-operator.js';
 
@@ -273,17 +519,25 @@ bob@dylan:~$ npm run dev 5-main.js
   'l', 'l', 'o'
 ]
 bob@dylan:~$
-Repo:
+```
 
-GitHub repository: alx-backend-javascript
-Directory: 0x00-ES6_basic
-File: 5-spread-operator.js
-   
-6. Take advantage of template literals
+**Repo:**
+
+-   GitHub repository: `alx-backend-javascript`
+-   Directory: `0x00-ES6_basic`
+-   File: `5-spread-operator.js`
+
+Check submission Mark submission Get a sandbox View results
+
+### 6\. Take advantage of template literals
+
 mandatory
+
 Score: 66.67% (Checks completed: 66.67%)
+
 Rewrite the return statement to use a template literal so you can the substitute the variables you’ve defined.
 
+```
 export default function getSanFranciscoDescription() {
   const year = 2017;
   const budget = {
@@ -296,8 +550,11 @@ export default function getSanFranciscoDescription() {
         / ', with a per capita personal income of ' + budget.income + '. As of 2015, San Francisco'
         / ' proper had a GDP of ' + budget.gdp + ', and a GDP per capita of ' + budget.capita + '.';
 }
+```
+
 Execution:
 
+```
 bob@dylan:~$ cat 6-main.js
 import getSanFranciscoDescription from './6-string-interpolation.js';
 
@@ -307,19 +564,27 @@ bob@dylan:~$
 bob@dylan:~$ npm run dev 6-main.js 
 As of 2017, it was the seventh-highest income county in the United States, with a per capita personal income of $119,868. As of 2015, San Francisco proper had a GDP of $154.2 billion, and a GDP per capita of $178,479.
 bob@dylan:~$
-Repo:
+```
 
-GitHub repository: alx-backend-javascript
-Directory: 0x00-ES6_basic
-File: 6-string-interpolation.js
-   
-7. Object property value shorthand syntax
+**Repo:**
+
+-   GitHub repository: `alx-backend-javascript`
+-   Directory: `0x00-ES6_basic`
+-   File: `6-string-interpolation.js`
+
+Check submission Mark submission Get a sandbox View results
+
+### 7\. Object property value shorthand syntax
+
 mandatory
+
 Score: 33.33% (Checks completed: 33.33%)
+
 Notice how the keys and the variable names are the same?
 
-Modify the following function’s budget object to simply use the keyname instead.
+Modify the following function’s `budget` object to simply use the keyname instead.
 
+```
 export default function getBudgetObject(income, gdp, capita) {
   const budget = {
     income: income,
@@ -329,8 +594,11 @@ export default function getBudgetObject(income, gdp, capita) {
 
   return budget;
 }
+```
+
 Execution:
 
+```
 bob@dylan:~$ cat 7-main.js
 import getBudgetObject from './7-getBudgetObject.js';
 
@@ -340,17 +608,25 @@ bob@dylan:~$
 bob@dylan:~$ npm run dev 7-main.js 
 { income: 400, gdp: 700, capita: 900 }
 bob@dylan:~$
-Repo:
+```
 
-GitHub repository: alx-backend-javascript
-Directory: 0x00-ES6_basic
-File: 7-getBudgetObject.js
-   
-8. No need to create empty objects before adding in properties
+**Repo:**
+
+-   GitHub repository: `alx-backend-javascript`
+-   Directory: `0x00-ES6_basic`
+-   File: `7-getBudgetObject.js`
+
+Check submission Mark submission Get a sandbox View results
+
+### 8\. No need to create empty objects before adding in properties
+
 mandatory
-Score: 66.67% (Checks completed: 66.67%)
-Rewrite the getBudgetForCurrentYear function to use ES6 computed property names on the budget object
 
+Score: 66.67% (Checks completed: 66.67%)
+
+Rewrite the `getBudgetForCurrentYear` function to use ES6 computed property names on the `budget` object
+
+```
 function getCurrentYear() {
   const date = new Date();
   return date.getFullYear();
@@ -365,8 +641,11 @@ export default function getBudgetForCurrentYear(income, gdp, capita) {
 
   return budget;
 }
+```
+
 Execution:
 
+```
 bob@dylan:~$ cat 8-main.js
 import getBudgetForCurrentYear from './8-getBudgetCurrentYear.js';
 
@@ -376,17 +655,25 @@ bob@dylan:~$
 bob@dylan:~$ npm run dev 8-main.js 
 { 'income-2021': 2100, 'gdp-2021': 5200, 'capita-2021': 1090 }
 bob@dylan:~$
-Repo:
+```
 
-GitHub repository: alx-backend-javascript
-Directory: 0x00-ES6_basic
-File: 8-getBudgetCurrentYear.js
-   
-9. ES6 method properties
+**Repo:**
+
+-   GitHub repository: `alx-backend-javascript`
+-   Directory: `0x00-ES6_basic`
+-   File: `8-getBudgetCurrentYear.js`
+
+Check submission Mark submission Get a sandbox View results
+
+### 9\. ES6 method properties
+
 mandatory
-Score: 100.0% (Checks completed: 100.0%)
-Rewrite getFullBudgetObject to use ES6 method properties in the fullBudget object
 
+Score: 100.0% (Checks completed: 100.0%)
+
+Rewrite `getFullBudgetObject` to use ES6 method properties in the `fullBudget` object
+
+```
 import getBudgetObject from './7-getBudgetObject.js';
 
 export default function getFullBudgetObject(income, gdp, capita) {
@@ -403,8 +690,11 @@ export default function getFullBudgetObject(income, gdp, capita) {
 
   return fullBudget;
 }
+```
+
 Execution:
 
+```
 bob@dylan:~$ cat 9-main.js
 import getFullBudgetObject from './9-getFullBudget.js';
 
@@ -418,17 +708,25 @@ bob@dylan:~$ npm run dev 9-main.js
 $20
 20 euros
 bob@dylan:~$
-Repo:
+```
 
-GitHub repository: alx-backend-javascript
-Directory: 0x00-ES6_basic
-File: 9-getFullBudget.js
-  
-10. For...of Loops
+**Repo:**
+
+-   GitHub repository: `alx-backend-javascript`
+-   Directory: `0x00-ES6_basic`
+-   File: `9-getFullBudget.js`
+
+Check submission Get a sandbox View results
+
+### 10\. For...of Loops
+
 mandatory
-Score: 66.67% (Checks completed: 66.67%)
-Rewrite the function appendToEachArrayValue to use ES6’s for...of operator. And don’t forget that var is not ES6-friendly.
 
+Score: 66.67% (Checks completed: 66.67%)
+
+Rewrite the function `appendToEachArrayValue` to use ES6’s `for...of` operator. And don’t forget that `var` is not ES6-friendly.
+
+```
 export default function appendToEachArrayValue(array, appendString) {
   for (var idx in array) {
     var value = array[idx];
@@ -437,8 +735,11 @@ export default function appendToEachArrayValue(array, appendString) {
 
   return array;
 }
+```
+
 Execution:
 
+```
 bob@dylan:~$ cat 10-main.js
 import appendToEachArrayValue from './10-loops.js';
 
@@ -448,31 +749,46 @@ bob@dylan:~$
 bob@dylan:~$ npm run dev 10-main.js 
 [ 'correctly-appended', 'correctly-fixed', 'correctly-displayed' ]
 bob@dylan:~$
-Repo:
+```
 
-GitHub repository: alx-backend-javascript
-Directory: 0x00-ES6_basic
-File: 10-loops.js
-   
-11. Iterator
+**Repo:**
+
+-   GitHub repository: `alx-backend-javascript`
+-   Directory: `0x00-ES6_basic`
+-   File: `10-loops.js`
+
+Check submission Mark submission Get a sandbox View results
+
+### 11\. Iterator
+
 mandatory
-Score: 50.0% (Checks completed: 50.0%)
-Write a function named createEmployeesObject that will receive two arguments:
 
-departmentName (String)
-employees (Array of Strings)
+Score: 50.0% (Checks completed: 50.0%)
+
+Write a function named `createEmployeesObject` that will receive two arguments:
+
+-   `departmentName` (String)
+-   `employees` (Array of Strings)
+
+```
 export default function createEmployeesObject(departmentName, employees) {
 
 }
+```
+
 The function should return an object with the following format:
 
+```
 {
      $departmentName: [
           $employees,
      ],
 }
+```
+
 Execution:
 
+```
 bob@dylan:~$ cat 11-main.js
 import createEmployeesObject from './11-createEmployeesObject.js';
 
@@ -482,26 +798,37 @@ bob@dylan:~$
 bob@dylan:~$ npm run dev 11-main.js 
 { Software: [ 'Bob', 'Sylvie' ] }
 bob@dylan:~$
-Repo:
+```
 
-GitHub repository: alx-backend-javascript
-Directory: 0x00-ES6_basic
-File: 11-createEmployeesObject.js
-   
-12. Let's create a report object
+**Repo:**
+
+-   GitHub repository: `alx-backend-javascript`
+-   Directory: `0x00-ES6_basic`
+-   File: `11-createEmployeesObject.js`
+
+Check submission Mark submission Get a sandbox View results
+
+### 12\. Let's create a report object
+
 mandatory
-Score: 50.0% (Checks completed: 50.0%)
-Write a function named createReportObject whose parameter, employeesList, is the return value of the previous function createEmployeesObject.
 
+Score: 50.0% (Checks completed: 50.0%)
+
+Write a function named `createReportObject` whose parameter, `employeesList`, is the return value of the previous function `createEmployeesObject`.
+
+```
 export default function createReportObject(employeesList) {
 
 }
-createReportObject should return an object containing the key allEmployees and a method property called getNumberOfDepartments.
+```
 
-allEmployees is a key that maps to an object containing the department name and a list of all the employees in that department. If you’re having trouble, use the spread syntax.
+`createReportObject` should return an object containing the key `allEmployees` and a method property called `getNumberOfDepartments`.
 
-The method property receives employeesList and returns the number of departments. I would suggest suggest thinking back to the ES6 method property syntax.
+`allEmployees` is a key that maps to an object containing the department name and a list of all the employees in that department. If you’re having trouble, use the spread syntax.
 
+The method property receives `employeesList` and returns the number of departments. I would suggest suggest thinking back to the ES6 method property syntax.
+
+```
 {
   allEmployees: {
      engineering: [
@@ -510,8 +837,11 @@ The method property receives employeesList and returns the number of departments
      ],
   },
 };
+```
+
 Execution:
 
+```
 bob@dylan:~$ cat 12-main.js
 import createEmployeesObject from './11-createEmployeesObject.js';
 import createReportObject from './12-createReportObject.js';
@@ -530,24 +860,35 @@ bob@dylan:~$ npm run dev 12-main.js
 { engineering: [ 'Bob', 'Jane' ], marketing: [ 'Sylvie' ] }
 2
 bob@dylan:~$
-Repo:
+```
 
-GitHub repository: alx-backend-javascript
-Directory: 0x00-ES6_basic
-File: 12-createReportObject.js
-   
-13. Iterating through report objects
+**Repo:**
+
+-   GitHub repository: `alx-backend-javascript`
+-   Directory: `0x00-ES6_basic`
+-   File: `12-createReportObject.js`
+
+Check submission Mark submission Get a sandbox View results
+
+### 13\. Iterating through report objects
+
 #advanced
+
 Score: 50.0% (Checks completed: 50.0%)
-Write a function named createIteratorObject, that will take into argument a report Object created with the previous function createReportObject.
+
+Write a function named `createIteratorObject`, that will take into argument a report Object created with the previous function `createReportObject`.
 
 This function will return an iterator to go through every employee in every department.
 
+```
 export default function createIteratorObject(report) {
 
 }
+```
+
 Execution:
 
+```
 bob@dylan:~$ cat 100-main.js
 import createIteratorObject from "./100-createIteratorObject.js";
 
@@ -573,22 +914,33 @@ Bob
 Jane
 Sylvie
 bob@dylan:~$
-Repo:
+```
 
-GitHub repository: alx-backend-javascript
-Directory: 0x00-ES6_basic
-File: 100-createIteratorObject.js
-   
-14. Iterate through object
+**Repo:**
+
+-   GitHub repository: `alx-backend-javascript`
+-   Directory: `0x00-ES6_basic`
+-   File: `100-createIteratorObject.js`
+
+Check submission Mark submission Get a sandbox View results
+
+### 14\. Iterate through object
+
 #advanced
-Score: 50.0% (Checks completed: 50.0%)
-Finally, write a function named iterateThroughObject. The function’s parameter reportWithIterator is the return value from createIteratorObject.
 
+Score: 50.0% (Checks completed: 50.0%)
+
+Finally, write a function named `iterateThroughObject`. The function’s parameter `reportWithIterator` is the return value from `createIteratorObject`.
+
+```
  export default function iterateThroughObject(reportWithIterator) {
 
  }
-It should return every employee name in a string, separated by |
+```
 
+It should return every employee name in a string, separated by `|`
+
+```
 {
   allEmployees: {
      engineering: [
@@ -598,24 +950,30 @@ It should return every employee name in a string, separated by |
   },
   ...
 };
-Should return John Doe | Guillaume Salva
+```
 
-Reminder - the functions will be imported by the test suite.
+Should return `John Doe | Guillaume Salva`
+
+Reminder - the functions will be _imported_ by the test suite.
 
 Full example:
 
-> employees = {
+```
+&gt; employees = {
       ...createEmployeesObject('engineering', engineering),
       ...createEmployeesObject('design', design),
     };
->
-> const report = createReportObject(employees);
-> const reportWithIterator = createIteratorObject(report);
-> iterateThroughObject(reportWithIterator)
+&gt;
+&gt; const report = createReportObject(employees);
+&gt; const reportWithIterator = createIteratorObject(report);
+&gt; iterateThroughObject(reportWithIterator)
 'John Doe | Guillaume Salva | Kanye East | Jay Li'
-> 
+&gt; 
+```
+
 Execution:
 
+```
 bob@dylan:~$ cat 101-main.js
 import createEmployeesObject from "./11-createEmployeesObject.js";
 import createReportObject from './12-createReportObject.js';
@@ -637,10 +995,14 @@ bob@dylan:~$
 bob@dylan:~$ npm run dev 101-main.js 
 Bob | Jane | Sylvie
 bob@dylan:~$
-Repo:
+```
 
-GitHub repository: alx-backend-javascript
-Directory: 0x00-ES6_basic
-File: 101-iterateThroughObject.js
-   
+**Repo:**
+
+-   GitHub repository: `alx-backend-javascript`
+-   Directory: `0x00-ES6_basic`
+-   File: `101-iterateThroughObject.js`
+
+Check submission Mark submission Get a sandbox View results
+
 Copyright © 2025 ALX, All rights reserved.
