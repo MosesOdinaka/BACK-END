@@ -1,32 +1,64 @@
-Requirements
-General
-All your files will be executed on Ubuntu 18.04 LTS using NodeJS 12.11.x
-Allowed editors: vi, vim, emacs, Visual Studio Code
-All your files should end with a new line
-A README.md file, at the root of the folder of the project, is mandatory
-Your code should use the js extension
-Your code will be tested using the Jest Testing Framework
-Your code will be analyzed using the linter ESLint along with specific rules that we’ll provide
-All of your functions must be exported
-Setup
-Install NodeJS 12.11.x
+---
+created: 2025-03-03T04:21:05 (UTC +01:00)
+tags: []
+source: https://intranet.alxswe.com/projects/1224
+author: 
+---
+
+# Project: 0x00. ES6 Basics | Lagos Intranet
+
+> ## Excerpt
+> Short Specializations
+        
+        
+          Average: 93.94%
+
+---
+## Requirements
+
+### General
+
+-   All your files will be executed on Ubuntu 18.04 LTS using NodeJS 12.11.x
+-   Allowed editors: `vi`, `vim`, `emacs`, `Visual Studio Code`
+-   All your files should end with a new line
+-   A `README.md` file, at the root of the folder of the project, is mandatory
+-   Your code should use the `js` extension
+-   Your code will be tested using the [Jest Testing Framework](https://intranet.alxswe.com/rltoken/ECZpKsJ3fm1qRA7lDyhd_Q "Jest Testing Framework")
+-   Your code will be analyzed using the linter [ESLint](https://intranet.alxswe.com/rltoken/Ttd9w5jERwTErJW3DDbVoQ "ESLint") along with specific rules that we’ll provide
+-   All of your functions must be exported
+
+## Setup
+
+### Install NodeJS 12.11.x
+
 (in your home directory):
 
+```
 curl -sL https://deb.nodesource.com/setup_12.x -o nodesource_setup.sh
 sudo bash nodesource_setup.sh
 sudo apt install nodejs -y
+```
+
+```
 $ nodejs -v
 v12.11.1
 $ npm -v
 6.11.3
-Install Jest, Babel, and ESLint
-in your project directory, install Jest, Babel and ESList by using the supplied package.json and run npm install.
+```
 
-Configuration files
+### Install Jest, Babel, and ESLint
+
+in your project directory, install Jest, Babel and ESList by using the supplied `package.json` and run `npm install`.
+
+## Configuration files
+
 Add the files below to your project directory
 
-package.json
+### `package.json`
+
 Click here to show/hide file contents
+
+```
 
 {
   "scripts": {
@@ -34,7 +66,7 @@ Click here to show/hide file contents
     "check-lint": "lint [0-9]*.js",
     "dev": "npx babel-node",
     "test": "jest",
-    "full-test": "./node_modules/.bin/eslint [0-9]*.js && jest"
+    "full-test": "./node_modules/.bin/eslint [0-9]*.js &amp;&amp; jest"
   },
   "devDependencies": {
     "@babel/core": "^7.6.0",
@@ -47,9 +79,13 @@ Click here to show/hide file contents
     "jest": "^24.9.0"
   }
 }
+```
 
-babel.config.js
+### `babel.config.js`
+
 Click here to show/hide file contents
+
+```
 
 module.exports = {
   presets: [
@@ -63,9 +99,13 @@ module.exports = {
     ],
   ],
 };
+```
 
-.eslintrc.js
+### `.eslintrc.js`
+
 Click here to show/hide file contents
+
+```
 
 module.exports = {
   env: {
@@ -102,6 +142,8 @@ module.exports = {
     }
   ]
 };
+```
 
-Finally…
-Don’t forget to run npm install from the terminal of your project folder to install all necessary project dependencies.
+### Finally…
+
+Don’t forget to run `npm install` from the terminal of your project folder to install all necessary project dependencies.
