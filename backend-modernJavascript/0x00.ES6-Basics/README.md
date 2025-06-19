@@ -1,4 +1,4 @@
----
+content://com.termux.documents/tree/%2Fdata%2Fdata%2Fcom.termux%2Ffiles%2Fhome::/data/data/com.termux/files/home/BACK-END/backend-modernJavascript/0x00.ES6-Basics/README.md---
 created: 2025-02-27T07:10:13 (UTC +01:00)
 tags: []
 source: https://intranet.alxswe.com/projects/1224

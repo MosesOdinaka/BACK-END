@@ -56,3 +56,38 @@ console.log(taskBlock(true));
 console.log(taskBlock(false));
 
 // (solution)1-block-scoped.js
+export default function taskBlock(trueOrFalse) {
+    let task = "false";
+    let task2 = "true";
+    
+    if (trueOrFalse) {
+        let task = "true";
+        let task2 = "false"
+    }
+    
+    return [task, task2];
+}
+
+// ----------------------------------------
+// 2.Arrow function 
+// cat 2.arrow.js
+export default function getNeighborhoodsList() {
+    this.sanFranciscoNeighborhoods = ["SOMA", "Union Square"];
+    const self = this;
+    this.addNeighborhood = function add(newNeighborhood) {
+        self.sanFranciscoNeighborhoods.push(newNeighborhood);
+        return self.sanFranciscoNeighborhoods;
+    };
+}
+
+// cat 2-main.js
+import getNeighborhoodsList from './2-arrow.js';
+const neighborhoodsList = new getNeighborhoodsList();
+const res = neighborhoodsList.addNeighborhood('Neo Valley');
+console.log(res);
+
+// solution 
+
+
+//----------------------------------------
+
