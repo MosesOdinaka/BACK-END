@@ -98,3 +98,26 @@ export default function getNeighborhoodsList() {
 
 //----------------------------------------
 
+// 3.Parameter dsfault
+export default function getSumOfHoods(initialNumber, expansion1989,
+expansion2019) {
+    if (expansion1989 === undifined) {
+        expansion1989 = 89;
+    }
+    if (expansion2019 === undifined) {
+        expansion2019 = 19;
+    }
+    return initialNumber + expansion1989 + expansion2019;
+}
+// 3-maim.js
+import getSumOfHoods from './3-default-parameter.js';
+console.log(getSumOfHoods(34));
+console.log(getSumOfHoods(34, 3));
+console.log(getSumOfHoods(34, 3, 4));
+
+// Solution 
+export default function getSumOfHoods(initialNumber, expansion1989 = 89,
+expansion2019 = 19) { return initialNumber + expansion1989 + expansion2019 }
+
+//----------------------------------------
+// 4.Rest parameter syntax for function
